@@ -1,0 +1,14 @@
+{
+  "boats": [
+    {
+      id: 1,
+      name: "Cyllan";
+      type: "Velero";
+      loa: 11;
+      beam: 3.56;
+      draft: 1.5;
+      created: null;
+      updated: null;
+    }
+  ]
+}
